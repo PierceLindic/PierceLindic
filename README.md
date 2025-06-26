@@ -1,16 +1,20 @@
-## Hi there 👋
+### Hi there 👋 I'm Pierce Lindic
 
-<!--
-**PierceLindic/PierceLindic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a Computer Science student at Georgia Southern University, passionate about software development and solving real-world problems with technology.
 
-Here are some ideas to get you started:
+🚀 I’m currently learning:
+- Python, JavaScript & Java
+- Web development (HTML, CSS, React)
+- Git & GitHub version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Projects I'm working on:
+- Personal portfolio website
+- To-do list app
+- Python-based games and automation tools
+
+🌱 Always open to learning new tech, collaborating on cool projects, and contributing to open source!
+
+📫 How to reach me: pierce.lindic5@gmail.com  
+🔗 Connect with me: [LinkedIn](linkedin.com/in/pierce-lindic-8249a2298) | [GitHub](https://github.com/PierceLindic)
+
+
